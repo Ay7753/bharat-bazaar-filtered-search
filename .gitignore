@@ -1,0 +1,4 @@
+data/vectors.npy
+data/metadata.csv
+data/__pycache__/
+__pycache__/
